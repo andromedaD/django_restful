@@ -1,0 +1,16 @@
+api_user:
+      - id: 1
+        username: xiaowang
+        email: 3543@qq.com
+        groups: http://localhost:8000/groups/1/
+
+      - id: 2
+        username: xiaoli
+        email: 24@qq.com
+        groups: http://localhost:8000/groups/2/
+
+api_group:
+      - id: 1
+        name: Developer
+      - id: 2
+        name: Tester
